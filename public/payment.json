@@ -1,0 +1,62 @@
+[
+    {
+      "id": "pm1",
+      "name": "PayPal",
+      "link": "https://www.paypal.com",
+      "image": "https://i.ibb.co.com/kcGFKVd/paypal.png"
+    },
+    {
+      "id": "pm2",
+      "name": "Stripe",
+      "link": "https://www.stripe.com",
+      "image": "https://i.ibb.co.com/WtPk9JY/stripe.png"
+    },
+    {
+      "id": "pm3",
+      "name": "Square",
+      "link": "https://squareup.com",
+      "image": "https://i.ibb.co.com/mc8WCbg/square.png"
+    },
+    {
+      "id": "pm4",
+      "name": "Google Pay",
+      "link": "https://pay.google.com",
+      "image": "https://i.ibb.co.com/CVVq0CT/google-Pay.png"
+    },
+    {
+      "id": "pm5",
+      "name": "Apple Pay",
+      "link": "https://www.apple.com/apple-pay/",
+      "image": "https://i.ibb.co.com/z45Whsj/applePay.png"
+    },
+    {
+      "id": "pm6",
+      "name": "Amazon Pay",
+      "link": "https://pay.amazon.com",
+      "image": "https://i.ibb.co.com/2NP0hX5/amazon-Pay.png"
+    },
+    {
+      "id": "pm7",
+      "name": "Visa Checkout",
+      "link": "https://www.visa.com/checkout",
+      "image": "https://i.ibb.co.com/rsw00t6/visa.png"
+    },
+    {
+      "id": "pm8",
+      "name": "MasterCard",
+      "link": "https://www.mastercard.com/masterpass",
+      "image": "https://i.ibb.co.com/fN6wjCx/mastercard.png"
+    },
+    {
+      "id": "pm9",
+      "name": "Cryptocurrency",
+      "link": "https://www.coinbase.com",
+      "image": "https://i.ibb.co.com/3dvty1H/crypto.jpg"
+    },
+    {
+      "id": "pm10",
+      "name": "Bank Transfer",
+      "link": "https://www.yourbank.com/transfer",
+      "image": "https://i.ibb.co.com/6FWnZhy/bank.png"
+    }
+  ]
