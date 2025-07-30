@@ -108,7 +108,7 @@ const Register = () => {
                         }
                     </div>
                 </div>
-                <div className="form-control mt-6">
+                <div className="form-control mt-7">
                     <button className="btn btn-primary">Register</button>
                 </div>
                 {error && <h2 className="text-red-500 text-lg">{error}</h2>}
